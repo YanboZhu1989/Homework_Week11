@@ -1,7 +1,7 @@
 # Homework: Time Series Analysis
 This homework involves data analysis and time series forecasting on Google search traffic data for Mercado Libre. The objective is to identify patterns, investigate any correlation with stock price trends, and use the Prophet package to forecast future search traffic.
 
-## set up a Google Colaboratory (Colab) workspace.
+## Set up a Google Colaboratory (Colab) workspace.
 
 Configure a Google Colaboratory (Colab) workspace. Install and import the necessary libraries and dependencies using the starter notebook.
 
